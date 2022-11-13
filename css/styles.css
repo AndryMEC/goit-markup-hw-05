@@ -629,7 +629,7 @@ img {
     1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
-.filter-link:hover,
+.filter-link:hover .animate,
 .filter-link:focus .animate {
     transform: translateY(0);
 }
