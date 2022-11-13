@@ -137,7 +137,7 @@ img {
 
 .current::after {
     position: absolute;
-    bottom: 2px;
+    bottom: -1px;
     content: '';
     display: block;
     width: 100%;
